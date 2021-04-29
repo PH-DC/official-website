@@ -27,7 +27,8 @@ export default function Home() {
                 </div>
 
                 <div className="join-sec">
-                    <li className="join-li"> <button className="join-btn"> <a href="#footer" className="join-btn-link">JOIN</a> </button> </li>
+                    <li className="join-li"> <a href="#footer" className="join-btn-link"> <button className="join-btn"> JOIN </button> </a></li>
+
                 </div>
             </ul>
         </header>

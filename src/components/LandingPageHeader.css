@@ -4,7 +4,7 @@ body {
   margin: 0;
   border: 0;
   padding: 0;
-  
+
   font-family: "Josefin Sans", sans-serif;
 }
 
@@ -71,13 +71,15 @@ body {
   text-decoration: none;
 }
 
-.events-link ,.blogs-link {
+.events-link,
+.blogs-link {
   text-align: center;
   font-size: 1rem;
   margin: auto 10px auto 10px;
 }
 
-.events-link a, .blogs-link a{
+.events-link a,
+.blogs-link a {
   color: black;
 }
 
@@ -98,6 +100,9 @@ body {
   border: none;
   border-radius: 10px;
   padding: 9px 30px;
+  color: white;
+  font-size: 1rem;
+  letter-spacing: 2px;
 }
 
 .join-btn-link {
@@ -107,7 +112,7 @@ body {
   text-decoration: none;
 }
 
-.join-btn-link:hover{
+.join-btn-link:hover {
   color: white;
 }
 
